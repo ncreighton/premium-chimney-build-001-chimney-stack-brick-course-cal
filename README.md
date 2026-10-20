@@ -1,0 +1,2 @@
+# premium-chimney-build-001-chimney-stack-brick-course-cal
+Stop manually counting bricks and recalculating chimney stack courses—miscounting costs you time, money, and frustrated clients. The Chimney Stack Brick Course Calculator eliminates guesswork and turns complex masonry math into a 60-second process.  This Notion template automates brick course calculations for chimney stacks, giving you instant mate
